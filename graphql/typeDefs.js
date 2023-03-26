@@ -74,8 +74,8 @@ const typeDefs = `
         title: String!
         content: String!
         location: String!
-        image1: String
-        image2: String
+        imageUrl1: String
+        imageUrl2: String
     }
 
     type Query {
