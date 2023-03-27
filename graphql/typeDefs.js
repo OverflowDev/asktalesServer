@@ -34,7 +34,6 @@ const typeDefs = `
         name: String!
         username: String!
         email: String!
-        password: String!
         role: String!
         isActive: Boolean!
         isAdmin: Boolean!
